@@ -1,2 +1,0 @@
-# BDDCucumberFrameworkPOM
-BDDCucumberFrameworkPOM
